@@ -7,4 +7,5 @@
  */
 public function index(){
     echo '第一次本地提交test';
+    echo '第一次github同步';
 }
